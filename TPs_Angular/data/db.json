@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "name": "Product 1 updated",
+      "price": "995",
+      "checked": false,
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Product 4",
+      "price": 100,
+      "checked": false
+    },
+    {
+      "id": "5",
+      "name": "Product 5",
+      "price": 500,
+      "checked": true
+    },
+    {
+      "id": "6",
+      "name": "Product 6",
+      "price": 600,
+      "checked": true
+    },
+    {
+      "id": "7",
+      "name": "Product 7",
+      "price": 700,
+      "checked": true
+    },
+    {
+      "id": "9",
+      "name": "Product 9",
+      "price": 900,
+      "checked": true
+    },
+    {
+      "id": "10",
+      "name": "Product 10",
+      "price": 1000,
+      "checked": true
+    },
+    {
+      "id": "beee",
+      "name": "az",
+      "price": "34",
+      "checked": true
+    },
+    {
+      "id": "11",
+      "name": "erzerze",
+      "price": "4544",
+      "checked": true
+    },
+    {
+      "id": "12",
+      "name": "erzerze",
+      "price": "4544",
+      "checked": false
+    },
+    {
+      "id": "13",
+      "name": "erzerze",
+      "price": "4544",
+      "checked": true
+    },
+    {
+      "id": "14",
+      "name": "d",
+      "price": 0,
+      "checked": true
+    }
+  ]
+}

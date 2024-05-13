@@ -1,0 +1,17 @@
+<nav class="p-3">
+    <ul class="nav nav-pills">
+      <li *ngFor="let link of actions" class="nav-item">
+        <a class="nav-link" [routerLink]="link.path" routerLinkActive="active">
+          <i class="bi {{link.icon}}"></i>
+          {{link.name}}
+        </a>
+
+      </li>
+    </ul>
+</nav>
+
+<app-app-errors></app-app-errors>
+<router-outlet>
+
+</router-outlet>
+
